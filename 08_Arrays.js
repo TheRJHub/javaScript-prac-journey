@@ -14,8 +14,6 @@ const arr=[1,2,3,4,5,6];
 const arr2=new Array(1,23,3);
 // console.log(arr2);
 
-
-
 // ===========================Arr methods===============================
 arr.push(69);//add value
 // console.log(arr);

@@ -23,6 +23,4 @@ console.log(Array.from({name:"Rajat"}));//return a empty arr
 let x1=100;
 let x2=200;
 let x3=300;
-console.log(Array.of(x1,x2,x3));
-
-
+console.log(Array.of(x1,x2,x3));         

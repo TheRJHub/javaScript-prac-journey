@@ -39,6 +39,7 @@ let stamp=Date.now();
 //  `${newDate.getDay()} and the time`
 
 newDate.toLocaleString('default',{
-    weekday: "long"
+    weekday: "long",
+    // timeZone: 
 })
 
